@@ -1,6 +1,7 @@
 <a href="https://ahmedzaki246.github.io/Portfolio-V2.0/">
     <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" style="width:100px;"/>
 </a>
+  Check out my portfolio to see my latest projects and work. You can explore various projects I've been working on and get to know more about my skills and experience.
 ## Languages and Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
