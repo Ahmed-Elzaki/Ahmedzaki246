@@ -1,4 +1,4 @@
-<img src="https://img.icons8.com/ios/100/000000/developer.png" alt="Developer" style="width:100px;"/>
+<img src="https://www.clipartkey.com/mpngs/m/93-933062_developer-laptop-computer.png" alt="Developer" style="width:100px;"/>
 ## Languages and Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
