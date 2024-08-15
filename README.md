@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/twbs/icons/main/icons/laptop.svg" alt="Developer" style="width:100px;"/>
+<img src="https://raw.githubusercontent.com/twbs/icons/main/icons/code.svg" alt="Code" style="width:100px;"/>
 ## Languages and Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
