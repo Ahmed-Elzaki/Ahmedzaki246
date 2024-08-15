@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/twbs/icons/main/icons/person.svg" alt="Profile" style="width:100px;"/>
+<a href="https://ahmedzaki246.github.io/Portfolio-V2.0/">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" style="width:100px;"/>
+</a> [Portfolio](https://ahmedzaki246.github.io/Portfolio-V2.0/)
 ## Languages and Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
