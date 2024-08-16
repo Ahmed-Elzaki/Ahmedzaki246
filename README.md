@@ -1,4 +1,4 @@
-![20240816_122632_0000](https://github.com/user-attachments/assets/ac5ccb40-ebca-4a86-8439-7fd38d528554)
+<img src="https://github.com/user-attachments/assets/ac5ccb40-ebca-4a86-8439-7fd38d528554" width="200" alt="Styled Image" style="border: 2px solid #000; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
 
    <p><strong>My Portfolio</strong>: Check out my portfolio to see my latest projects and work. You can explore various projects I've been working on and get to know more about my skills and experience.
 </p>
