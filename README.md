@@ -1,8 +1,6 @@
-<p style="background-color: #f5f5dc; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); margin: 1rem;">
-    <a href="https://ahmedzaki246.github.io/Portfolio-V2.0/">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" style="width:100px;"/>
-    </a>
-    <strong>My Portfolio</strong>: Check out my portfolio to see my latest projects and work. You can explore various projects I've been working on and get to know more about my skills and experience.
+![20240816_122632_0000](https://github.com/user-attachments/assets/ac5ccb40-ebca-4a86-8439-7fd38d528554)
+
+   <p><strong>My Portfolio</strong>: Check out my portfolio to see my latest projects and work. You can explore various projects I've been working on and get to know more about my skills and experience.
 </p>
 
 ## Languages Used Across Repositories
