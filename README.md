@@ -5,6 +5,10 @@
     <strong>My Portfolio</strong>: Check out my portfolio to see my latest projects and work. You can explore various projects I've been working on and get to know more about my skills and experience.
 </p>
 
+## Languages Used Across Repositories
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzaki246&layout=compact)](https://github.com/Ahmedzaki246/github-readme-stats)
+
 ## Languages and Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
